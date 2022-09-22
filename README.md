@@ -1,2 +1,2 @@
-# Polynomial
+# Polynomial Regression
 Polynomial Regression
